@@ -1,2 +1,2 @@
-# python_ai_tutorials
-Tutorials for python AI related problems
+# AI tutorials
+Some private tutorials/tests for python AI related problems
