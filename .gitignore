@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 flowers-102/
+fashion_mnist/
