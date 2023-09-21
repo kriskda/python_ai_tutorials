@@ -161,3 +161,4 @@ cython_debug/
 
 flowers-102/
 fashion_mnist/
+dogs_cats/
