@@ -166,3 +166,4 @@ dogs_cats/
 # API keys
 .env
 amazon_food_reviews.csv
+aclimdb*
