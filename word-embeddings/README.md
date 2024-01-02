@@ -1,0 +1,2 @@
+## Word2Vec Explained
+Word2Vec is an approach in the field of natural language processing (NLP) used to convert words into vector representations. These vectors capture semantic relationships between words, meaning that words with similar meanings are represented by vectors close to each other in the vector space. This technique is incredibly useful for a variety of applications in NLP, such as sentiment analysis, recommendation systems, and text classification.

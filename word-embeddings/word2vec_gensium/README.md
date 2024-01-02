@@ -4,9 +4,6 @@ This Jupyter Notebook project is focused on leveraging the power of Word2Vec, a 
 ![01](https://github.com/kriskda/python_ai_tutorials/assets/2589087/912e574a-115a-47f7-a314-17ee7eee8cc1)
 ![02](https://github.com/kriskda/python_ai_tutorials/assets/2589087/95976d80-4efd-4d89-920f-7000e6d33f4f)
 
-## Word2Vec Explained
-Word2Vec is an approach in the field of natural language processing (NLP) used to convert words into vector representations. These vectors capture semantic relationships between words, meaning that words with similar meanings are represented by vectors close to each other in the vector space. This technique is incredibly useful for a variety of applications in NLP, such as sentiment analysis, recommendation systems, and text classification.
-
 ## Dataset
 The dataset used in this project consists of Amazon product reviews. These reviews are rich in natural language text and provide an excellent resource for performing word embedding with Word2Vec.
 
