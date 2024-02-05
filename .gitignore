@@ -169,3 +169,4 @@ amazon_food_reviews.csv
 aclImdb
 aclImdb_v1.tar.gz
 logs
+model-text-to-sql
